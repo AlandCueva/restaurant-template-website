@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    cursor: none;
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #F4F4F6;
+    color: #1A1A1A;
+  }
+  * { cursor: none !important; }
+}
+
+@layer utilities {
+  /* Scrollbar hide utility for menu tabs and horizontal display case carousel */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

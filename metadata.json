@@ -1,0 +1,6 @@
+{
+  "name": "Arsenia — Coffee & Brunch",
+  "description": "Specialty coffee & brunch landing page with bespoke design tokens, custom cursor, magnetic button components, and a custom reservation drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
