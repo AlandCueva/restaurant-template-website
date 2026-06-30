@@ -168,6 +168,8 @@ Construido por **Aland Cueva** — plataformas web con IA nativa y SEO local inc
 - 📍 Con base en Loja, Ecuador — construyendo para clientes a nivel global
 - 💬 Disponible para desarrollos a medida, licenciamiento de plantillas e integración continua de IA/automatización
 
+ **✉️ Gmail: juliancueva17@gmail.com**
+
 ---
 
 *¿Tienes un restaurante, gimnasio o negocio local listo para dejar de perder clientes ante competidores con mejores sitios web? Hablemos.*
