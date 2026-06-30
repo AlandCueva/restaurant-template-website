@@ -2,7 +2,7 @@
 
 > **Una plantilla lista para producción, optimizada para SEO y nativa en IA, construida para restaurantes que quieren posicionarse en Google, automatizar la interacción con sus comensales y convertir visitantes en reservas.**
 
-Construida y mantenida por **[Aland Cueva](https://github.com/)** — Desarrollador Web y Creador de Contenido Audiovisual (Ecuador) — diseñando escaparates digitales modernos para negocios locales que compiten con marcas más grandes usando mejor tecnología, no presupuestos más grandes.
+Construida y mantenida por **[Aland Cueva](https://github.com/AlandCueva)** — Desarrollador Web y Creador de Contenido Audiovisual (Ecuador) — diseñando escaparates digitales modernos para negocios locales que compiten con marcas más grandes usando mejor tecnología, no presupuestos más grandes.
 
 ---
 
